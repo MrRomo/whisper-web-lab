@@ -1,0 +1,7 @@
+Flask==2.2.3
+Flask-Cors==3.0.10
+numpy==1.23.5
+openai-whisper @ git+https://github.com/openai/whisper.git@b5851c6c40e753606765ac45b85b298e3ae9e00d
+python-dotenv==1.0.0
+sounddevice==0.4.6
+torch==2.0.0
